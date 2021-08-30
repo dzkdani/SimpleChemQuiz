@@ -1,0 +1,32 @@
+﻿{
+	"version": 1505444371,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/cahaya-sheet0.png",
+		"images/play-sheet0.png",
+		"images/tombol-sheet0.png",
+		"images/board-sheet0.png",
+		"images/complete-sheet0.png",
+		"images/replay-sheet0.png",
+		"images/back-sheet0.png",
+		"images/brushes-sheet0.png",
+		"images/judulnya.png",
+		"images/element-sheet0.png",
+		"images/element-sheet1.png",
+		"images/tanya-sheet0.png",
+		"media/soundclick.ogg",
+		"media/soundowh.ogg",
+		"media/musik1.ogg",
+		"media/musik2.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"dataelement.json"
+	]
+}
